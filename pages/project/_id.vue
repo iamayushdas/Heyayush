@@ -130,7 +130,7 @@ export default {
   },
   head () {
     return {
-      title: this.metadata.name + ' - Quang ND'
+      title: this.metadata.name + ' - Ayush Das'
     }
   }
 }
