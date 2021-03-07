@@ -1,5 +1,5 @@
 
-const title = 'Quang ND – Fullstack web developer'
+const title = 'Ayush Das – Fullstack web developer'
 const description = 'A little about myself and my work. If you are interested, contact me to know more'
 
 export default {

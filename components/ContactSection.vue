@@ -14,7 +14,7 @@
       </a>
 
       <a
-        href="https://github.com/endyquang"
+        href="https://github.com/iamayushdas"
         rel="noopener noreferrer"
         target="_blank"
         class="text-gray-700 duration-150 hvr-wobble-vertical"
